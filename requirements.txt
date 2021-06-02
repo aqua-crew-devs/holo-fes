@@ -9,5 +9,5 @@ PySocks==1.7.1
 requests==2.22.0
 six==1.14.0
 streamlink==1.3.0
-urllib3==1.25.8
+urllib3==1.26.5
 websocket-client==0.57.0
